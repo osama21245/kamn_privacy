@@ -17,6 +17,24 @@ Where necessary, this [[ "app"]] uses cookies to store information about a visit
 
 Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["user"]] activities on this [["app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
 
+## Information we collect
+
+We only collect information about you if we have a reason to do so—for example, to provide our services, to communicate with you, or to make our app better. We collect this information from three sources: if and when you provide information to us, automatically through operating our services, and from outside sources.
+
+Information You Provide to Us
+Account Information: To create an account, you must provide your email address or use a third-party service. Your email address is necessary for account recovery, and it helps us communicate with you.
+
+Profile Information: You may choose to provide profile information like a photo, display name, and other details to personalize your account.
+
+Payment Information: To make a purchase, you may need to provide payment information, such as your credit card or other payment details. We use a third-party service to process payments securely.
+
+Automatically Collected Information
+Log Data: When you use our services, our servers automatically record information ("log data"), including information that your browser sends whenever you visit a website or your mobile app sends when you're using it.
+
+Device Information: We may collect information about the device you're using the app on, including the type of device, operating system, settings, and unique device identifiers.
+
+## How we use the information
+We use the information we collect to provide our services, improve them, and to keep our app safe and secure.
 
 ## Links to Third Party Websites
 
